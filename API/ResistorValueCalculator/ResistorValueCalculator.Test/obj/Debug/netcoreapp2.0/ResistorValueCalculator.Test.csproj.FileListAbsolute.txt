@@ -1,0 +1,17 @@
+C:\Users\varun\source\repos\ResistorValueCalculator\ResistorValueCalculator.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\varun\source\repos\ResistorValueCalculator\ResistorValueCalculator.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\varun\source\repos\ResistorValueCalculator\ResistorValueCalculator.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\varun\source\repos\ResistorValueCalculator\ResistorValueCalculator.Test\bin\Debug\netcoreapp2.0\ResistorValueCalculator.Test.deps.json
+C:\Users\varun\source\repos\ResistorValueCalculator\ResistorValueCalculator.Test\bin\Debug\netcoreapp2.0\ResistorValueCalculator.Test.runtimeconfig.json
+C:\Users\varun\source\repos\ResistorValueCalculator\ResistorValueCalculator.Test\bin\Debug\netcoreapp2.0\ResistorValueCalculator.Test.runtimeconfig.dev.json
+C:\Users\varun\source\repos\ResistorValueCalculator\ResistorValueCalculator.Test\bin\Debug\netcoreapp2.0\ResistorValueCalculator.Test.dll
+C:\Users\varun\source\repos\ResistorValueCalculator\ResistorValueCalculator.Test\bin\Debug\netcoreapp2.0\ResistorValueCalculator.Test.pdb
+C:\Users\varun\source\repos\ResistorValueCalculator\ResistorValueCalculator.Test\bin\Debug\netcoreapp2.0\ResistorValueCalculator.dll
+C:\Users\varun\source\repos\ResistorValueCalculator\ResistorValueCalculator.Test\bin\Debug\netcoreapp2.0\ResistorValueCalculator.pdb
+C:\Users\varun\source\repos\ResistorValueCalculator\ResistorValueCalculator.Test\obj\Debug\netcoreapp2.0\ResistorValueCalculator.Test.csprojAssemblyReference.cache
+C:\Users\varun\source\repos\ResistorValueCalculator\ResistorValueCalculator.Test\obj\Debug\netcoreapp2.0\ResistorValueCalculator.Test.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\ResistorValueCalculator\ResistorValueCalculator.Test\obj\Debug\netcoreapp2.0\ResistorValueCalculator.Test.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\ResistorValueCalculator\ResistorValueCalculator.Test\obj\Debug\netcoreapp2.0\ResistorValueCalculator.Test.AssemblyInfo.cs
+C:\Users\varun\source\repos\ResistorValueCalculator\ResistorValueCalculator.Test\obj\Debug\netcoreapp2.0\ResistorValueCalculator.Test.csproj.CopyComplete
+C:\Users\varun\source\repos\ResistorValueCalculator\ResistorValueCalculator.Test\obj\Debug\netcoreapp2.0\ResistorValueCalculator.Test.dll
+C:\Users\varun\source\repos\ResistorValueCalculator\ResistorValueCalculator.Test\obj\Debug\netcoreapp2.0\ResistorValueCalculator.Test.pdb
