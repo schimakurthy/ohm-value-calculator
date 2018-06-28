@@ -4,7 +4,11 @@ This application calculated the value of a 4-band resistor using their color cod
 In a 4-band resistor, each color is associated to either a value of the resistor or multiplier or tolerance.
 Below is the user interface of the application
 
-
+<center>
+    <img src="https://github.com/schimakurthy/ohm-value-calculator/blob/master/4-band-resistor/public/resistor.png" width="55%">
+  </center>
+  
+  Now each band has a set of valid color options to choose.
 
 <table>
   <tr>
@@ -183,8 +187,41 @@ Below is the user interface of the application
       10
     </td>
   </tr>
+</table>
 
 
+Resistor value is calculated based on the below formula
+
+Resistor value = ((Value of Band A*10) +Value of Band B)*Multiplier ± Tolerance%
+
+#### Technology stack:
+- React.js
+- Jest Test cases
+- ASP.NET Core 2.0
+- C#
+- Swagger API
+- XUnit Unit tests
+
+#### IDEs used:
+- Visual Studio Code (for front end)
+- Visual Studio Community 2017 (for .Net Core WEB API)
+
+### Setting up the development environment:
+
+Download the zip file and unzip to any new folder of your choice.
+
+#### API setup:
+- Open Visual Studio
+- Browse for the ‘API’ folder inside the unzipped location
+- Select the .sln file to open the project
+- Rebuild the application and run it. (Assuming IIS Express is enabled)
+- The end point url http://localhost/54841 is set by default.
+-	We use this URL to access the service and calculate the resistor value.
+#### Frontend setup:
+-	Open Visual Studio Code
+-	Browse and select ‘4-band-resistor’ folder inside the unzipped location
+-	Open Integrated Terminal and execute ‘npm i’
+-	Once all the modules are installed execute ‘npm start’
 
 
 
