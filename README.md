@@ -1,12 +1,10 @@
 # ohm-value-calculator
 
-This application calculated the value of a 4-band resistor using their color codes.
+This application calculates the value of a 4-band resistor using their color codes.
 In a 4-band resistor, each color is associated to either a value of the resistor or multiplier or tolerance.
 Below is the user interface of the application
 
-<center>
-    <img src="https://github.com/schimakurthy/ohm-value-calculator/blob/master/4-band-resistor/public/resistor.png" width="55%">
-  </center>
+<img src="https://github.com/schimakurthy/ohm-value-calculator/blob/master/4-band-resistor/public/resistor.png" width="55%">
   
   Now each band has a set of valid color options to choose.
 
